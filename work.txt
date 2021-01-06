@@ -9,4 +9,11 @@ Intsalling Git...
 
 Installing completed....
 
+working 
+
+writing java code..
+
+done
+
+
 
