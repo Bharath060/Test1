@@ -4,4 +4,6 @@ working with Git
 dowloading git...
 
 
+Intsalling Git...
+
 
